@@ -3,7 +3,7 @@
   "id": "screenrec",
   "version": "0.0.1",
   "minecraft_versions": [
-    "1.26.50.1"
+    ">=1.26.50.1"
   ],
   "info": {
     "name": "ScreenRec",
