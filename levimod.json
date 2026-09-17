@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "screenrec",
+  "version": "0.0.1",
+  "minecraft_versions": [
+    "1.26.50.1"
+  ],
+  "info": {
+    "name": "ScreenRec",
+    "author": "DrukisMC",
+    "description": "In-game screen recorder for Minecraft Bedrock 1.26.50: MP4 clips with internal game audio, no external apps.",
+    "homepage_url": "https://github.com/DrukisMC/ScreenRec-Releases",
+    "icon": "assets/icon.png",
+    "tags": [
+      "Utility",
+      "Video"
+    ]
+  },
+  "release_assets": {
+    "include": [
+      "*.levipack"
+    ],
+    "labels": {
+      "ScreenRec.levipack": "LeviPack"
+    }
+  }
+}
